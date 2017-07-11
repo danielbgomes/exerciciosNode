@@ -1,0 +1,11 @@
+
+1 - Node roda JS no backend, no lado do servidor.
+
+2 - Express é o framework mais usado para Node.
+
+3 - NPM é o instalador de dependencias default do Node, e concorre com o Yarn atualmente.
+
+4 - Package.json é o arquivo padrão do Node, onde ficam todas as infos de projeto, desde o nome do autor até as versões das dependências que o projeto tem.
+
+
+
