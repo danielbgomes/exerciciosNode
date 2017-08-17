@@ -1,0 +1,21 @@
+Hey Listen!
+
+Primeiramente aprendi que tudo que eu não uso no dia-a-dia eu esqueço, porque quando eu tava trabalhando no Mailee eu cheguei a fazer todas essas paradas de github e agora que fui usar novamente tomei um tufo porque não lembrava mais de nada :D
+
+Mas com a ajuda do Allan, do Rarytops e do Dan Dan eu consegui lembrar boa parte do processo e ir adiante, sem nunca desistir é claro.
+
+Então elencando os aprendizados ficaria mais ou meons assim: 
+
+- reaprendi a usar o github e seus comandos obscuros dark_g0thycos
+- aprendi a criar uma branch e a conectar minha branch com meu PC via SSH
+- aprendi a dar um delete baiano em uma branch (rm -rf .git) 
+- aprendi um pouco de JavaScript porque eu obviamente não lembrava de mais nada do que vi sobre introdução a JS no meu Técnico, pra poder fazer o app.js lá da primeira tarefa;
+
+Mas confesso que é muito confuso esse lance do passo-a-passo de publicar arquivos no git, mas é pq eu não tenho visto isso com frequência, eu sei.
+
+          /)─―ヘ/)
+　　　＿／　　　　＼
+　 ／　　　　●　　　●丶
+　｜　　　　　　　▼　|
+　｜　　　　　　　亠ノ 　
+    U￣U￣￣￣￣U￣
