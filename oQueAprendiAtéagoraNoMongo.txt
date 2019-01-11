@@ -1,0 +1,1 @@
+Aprendi a conectar o banco usando a plataforma da umbler e a fazer insert e delete de collections, fiquei bem confuso no início pois não estava acostumado com banco NoSql.
