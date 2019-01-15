@@ -1,0 +1,1 @@
+[200~Até agora eu aprendi a criar um banco de dados MongoDB, criar conecção com o banco através do Robo 3T, adicionar documentos nas minhas "coleções", inserir dados, atualizar dados e apagar dados.
