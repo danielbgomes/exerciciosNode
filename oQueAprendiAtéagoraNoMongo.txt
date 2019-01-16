@@ -1,0 +1,1 @@
+Aprendi no MongoDB a criar um banco e a realizar insert, insertOne, insertMany e deleteOne, deleteMany e remove testei varios inserts and deletes durante o teste, li a documentação do mongoDB e aprendi alguns outros métodos
